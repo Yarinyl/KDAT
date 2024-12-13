@@ -2,7 +2,9 @@
 
 Welcome to the official implementation for the AAAI-2025 paper KDAT: Inherent Adversarial Robustness via Knowledge Distillation with Adversarial Tuning for Object Detection Models.
 
-![Project Screenshot](faster_DEMO.png)
+<div align="center">
+  <img src="faster_DEMO.png" alt="Project Screenshot">
+</div>
 
 Provide a more detailed explanation of your project, including its goals and key aspects. Explain why this project exists and who might find it useful.
 
