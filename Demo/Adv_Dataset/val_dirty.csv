@@ -1,0 +1,3 @@
+,my_id,image_id,x1,y1,x2,y2,label,image_path
+0,1,308476,70.87,88.16,537.99,408.16,23,KDAT/Demo/Adv_Dataset/Validation/Dirty/000000308476_PGD_303_189_431_317.npy
+1,1,308476,527.44,216.85,596.33,286.87,37,KDAT/Demo/Adv_Dataset/Validation/Dirty/000000308476_PGD_303_189_431_317.npy
