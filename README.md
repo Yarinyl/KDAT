@@ -3,7 +3,7 @@
 Welcome to the official implementation for the AAAI-2025 paper KDAT: Inherent Adversarial Robustness via Knowledge Distillation with Adversarial Tuning for Object Detection Models.
 
 <div align="center">
-  <img src="images/faster_DEMO.png" alt="Project Screenshot">
+  <img src="Demo/FasterRCNN/exp.png" alt="Project Screenshot">
 </div>
 
 ## Abstract
@@ -18,7 +18,7 @@ Furthermore, our additional physical evaluation on the Superstore dataset demons
 Leveraging OD models' modularity (interchangeable components such as backbone and detection heads), KDAT transfers informative features from various processing stages in the model's architecture.
 
 <div align="center">
-  <img src="images/TransformerBasedPipeline.png" alt="Project Screenshot">
+  <img src="TransformerBasedPipeline.png" alt="Project Screenshot">
 </div>
 
 ## Installation
