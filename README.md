@@ -41,7 +41,7 @@ The first step involves preparing an adversarial dataset and updating the config
 ```
 Creating an adversarial dataset is a key step when fine-tuning your model using KDAT. This dataset should include both training and validation sets, as demonstrated in the Demo/Adv_Dataset directory, with CSV files for each subset of the examples.
 
-Than, run the Train_KDAT.py to fine-tune your model using KDAT.
+Then, run the Train_KDAT.py to fine-tune your model using KDAT.
 ```
 /your-repo/src/main.py
 ```
