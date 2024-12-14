@@ -31,13 +31,11 @@ The required packages are detailed in the requirement file and can be installed 
 ## Usage
 
 ### Using pre-trained KDAT models:
-We provide the checkpoints for both Faster R-CNN and DETR in the weights directory.
-```
-/your-repo/src/main.py
-```
+We provide the checkpoints for both Faster R-CNN and DETR [here](https://drive.google.com/drive/folders/1DkcY8UvqtEBgBQ6MMhkqBgcHkkfXAeLa?usp=drive_link).
+
 The demo folder containing code for demonstration the usage of the provided wegeiths on benign and adverserial exampels.:
 ```
-/your-repo/src/main.py
+/KDAT/Demo
 ```
 
 ### Train KDAT:
@@ -46,14 +44,11 @@ The Defender directory is a versatile resource. It contains the abstract class B
 
 The first step involves preparing an adversarial dataset and updating the config file accordingly which locate at:
 ```
-/your-repo/src/main.py
+/KDAT/Config.py
 ```
 Creating an adversarial dataset is a key step when fine-tuning your model using KDAT. This dataset should include both training and validation sets, as demonstrated in the Demo/Adv_Dataset directory, with CSV files for each subset of the examples.
 
 Then, run the Train_KDAT.py to fine-tune your model using KDAT.
 ```
-/your-repo/src/main.py
+/KDAT/Train_KDAT.py
 ```
-
-
-
