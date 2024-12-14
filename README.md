@@ -33,7 +33,7 @@ The required packages are detailed in the requirement file and can be installed 
 ### Using pre-trained KDAT models:
 We provide the checkpoints for both Faster R-CNN and DETR [here](https://drive.google.com/drive/folders/1DkcY8UvqtEBgBQ6MMhkqBgcHkkfXAeLa?usp=drive_link).
 
-The demo folder containing code for demonstration the usage of the provided wegeiths on benign and adverserial exampels.:
+The demo folder contains code demonstrating the usage of the provided weights on both benign and adversarial examples:
 ```
 /KDAT/Demo
 ```
