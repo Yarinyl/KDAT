@@ -52,3 +52,5 @@ Then, run the Train_KDAT.py to fine-tune your model using KDAT.
 ```
 /KDAT/Train_KDAT.py
 ```
+
+## Citation
