@@ -55,6 +55,7 @@ Then, run the Train_KDAT.py to fine-tune your model using KDAT.
 
 ## Citation
 
+If you use this work, please cite:
 ```bibtex
 @inproceedings{levi2025kdat,
   title={KDAT: Inherent Adversarial Robustness via Knowledge Distillation with Adversarial Tuning for Object Detection Models},
